@@ -1,3 +1,8 @@
+# 自己实现Redux
+
+[预览](https://lhalou.github.io/make-redux/build/#)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
