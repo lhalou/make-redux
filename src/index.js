@@ -36,8 +36,6 @@ function renderContent(newContent, oldContent = {}) {
   contentDOM.style.color = newContent.color;
 }
 
-let appState = {};
-
 function reducer(state, action) {
   if (!state) {
     return {
